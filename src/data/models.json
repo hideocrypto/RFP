@@ -1,0 +1,258 @@
+[
+  {
+    "id": "belize",
+    "model": "Belize",
+    "type": "Fiberglass Pool",
+    "category": "rectangles",
+    "filename": "Belize Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Belize model fiberglass pool with clean lines and modern design",
+    "dimensions": {
+      "length": 32,
+      "width": 14,
+      "depth": 6
+    },
+    "gallons": 12000,
+    "weight": 2200,
+    "features": ["Tanning Ledge", "Steps", "Bench Seating"]
+  },
+  {
+    "id": "brasilia",
+    "model": "Brasilia",
+    "type": "Fiberglass Pool",
+    "category": "rectangles",
+    "filename": "Brasilia Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Brasilia model fiberglass pool with rectangular design",
+    "dimensions": {
+      "length": 36,
+      "width": 16,
+      "depth": 6.5
+    },
+    "gallons": 15000,
+    "weight": 2500,
+    "features": ["Deep End", "Wide Steps", "Corner Seating"]
+  },
+  {
+    "id": "cali-cove",
+    "model": "Cali Cove",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Cali Cove Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Cali Cove model fiberglass pool with curved edges",
+    "dimensions": {
+      "length": 28,
+      "width": 14,
+      "depth": 5.5
+    },
+    "gallons": 10000,
+    "weight": 1800,
+    "features": ["Curved Design", "Entry Steps", "Bench Seating"]
+  },
+  {
+    "id": "colombian",
+    "model": "Colombian",
+    "type": "Fiberglass Pool",
+    "category": "rectangles",
+    "filename": "Colombian Fiberglass Pool By Rainforest Pools USA.jpg",
+    "alt": "Colombian model fiberglass pool with classic rectangular shape",
+    "dimensions": {
+      "length": 40,
+      "width": 16,
+      "depth": 6
+    },
+    "gallons": 16000,
+    "weight": 2800,
+    "features": ["Classic Design", "Wide Steps", "Deep End"]
+  },
+  {
+    "id": "colombian-beach",
+    "model": "Colombian Beach",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Colombian Beach Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Colombian Beach model fiberglass pool with beach entry",
+    "dimensions": {
+      "length": 38,
+      "width": 16,
+      "depth": 6
+    },
+    "gallons": 14000,
+    "weight": 2600,
+    "features": ["Beach Entry", "Gradual Slope", "Wide Design"]
+  },
+  {
+    "id": "colombian-cove",
+    "model": "Colombian Cove",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Colombian Cove Fiberglass pool by Rainforest Pools USA.jpeg",
+    "alt": "Colombian Cove model fiberglass pool with cove feature",
+    "dimensions": {
+      "length": 36,
+      "width": 14,
+      "depth": 5.5
+    },
+    "gallons": 13000,
+    "weight": 2400,
+    "features": ["Cove Design", "Entry Steps", "Bench Seating"]
+  },
+  {
+    "id": "costa-rica",
+    "model": "Costa Rica",
+    "type": "Fiberglass Pool",
+    "category": "rectangles",
+    "filename": "Costa Rica Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Costa Rica model fiberglass pool with tropical design",
+    "dimensions": {
+      "length": 34,
+      "width": 16,
+      "depth": 6
+    },
+    "gallons": 14500,
+    "weight": 2500,
+    "features": ["Tropical Design", "Wide Steps", "Bench Seating"]
+  },
+  {
+    "id": "costa-beach",
+    "model": "Costa Beach",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Costa Beach Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Costa Beach model fiberglass pool with beach entry",
+    "dimensions": {
+      "length": 32,
+      "width": 16,
+      "depth": 5.5
+    },
+    "gallons": 12500,
+    "weight": 2300,
+    "features": ["Beach Entry", "Gradual Slope", "Bench Seating"]
+  },
+  {
+    "id": "neblina-beach",
+    "model": "Neblina Beach",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Neblina Beach fiberglass pool by Rainforest Pools USA.jpg",
+    "alt": "Neblina Beach model fiberglass pool with beach entry",
+    "dimensions": {
+      "length": 30,
+      "width": 14,
+      "depth": 5
+    },
+    "gallons": 11000,
+    "weight": 2000,
+    "features": ["Beach Entry", "Compact Design", "Bench Seating"]
+  },
+  {
+    "id": "neblina-grande",
+    "model": "Neblina Grande",
+    "type": "Fiberglass Pool",
+    "category": "rectangles",
+    "filename": "Neblina Grande Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Neblina Grande model fiberglass pool with large design",
+    "dimensions": {
+      "length": 42,
+      "width": 18,
+      "depth": 6.5
+    },
+    "gallons": 18000,
+    "weight": 3000,
+    "features": ["Large Design", "Wide Steps", "Deep End"]
+  },
+  {
+    "id": "roatan",
+    "model": "Roatan",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Roatan Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Roatan model fiberglass pool with curved design",
+    "dimensions": {
+      "length": 28,
+      "width": 14,
+      "depth": 5
+    },
+    "gallons": 9500,
+    "weight": 1800,
+    "features": ["Curved Design", "Entry Steps", "Compact Size"]
+  },
+  {
+    "id": "roatan-beach",
+    "model": "Roatan Beach",
+    "type": "Fiberglass Pool",
+    "category": "freeform",
+    "filename": "Roatan Beach Fiberglass Pool by Rainforest Pools USA.jpg",
+    "alt": "Roatan Beach model fiberglass pool with beach entry",
+    "dimensions": {
+      "length": 26,
+      "width": 14,
+      "depth": 5
+    },
+    "gallons": 9000,
+    "weight": 1700,
+    "features": ["Beach Entry", "Compact Design", "Bench Seating"]
+  },
+  {
+    "id": "rio-tanning-ledge",
+    "model": "Rio Tanning Ledge",
+    "type": "Fiberglass Pool Feature",
+    "category": "spa-ledges",
+    "filename": "Rio Tanning Ledge by Rainforest Pools USA.jpg",
+    "alt": "Rio Tanning Ledge add-on feature for fiberglass pools",
+    "dimensions": {
+      "length": 8,
+      "width": 6,
+      "depth": 0.5
+    },
+    "gallons": 500,
+    "weight": 400,
+    "features": ["Tanning Ledge", "Add-on Feature", "Shallow Water"]
+  },
+  {
+    "id": "quatro-spa",
+    "model": "Quatro Spa",
+    "type": "Fiberglass Spa",
+    "category": "spa-ledges",
+    "filename": "Quatro Spa by Rainforest Pools USA.jpg",
+    "alt": "Quatro model fiberglass spa with seating for four",
+    "dimensions": {
+      "length": 7,
+      "width": 7,
+      "depth": 3
+    },
+    "gallons": 350,
+    "weight": 600,
+    "features": ["4-Person Seating", "Jets", "Compact Design"]
+  },
+  {
+    "id": "neblina-spa",
+    "model": "Neblina Spa",
+    "type": "Fiberglass Spa",
+    "category": "spa-ledges",
+    "filename": "Neblina Spa by Rainforest Pools USA.jpg",
+    "alt": "Neblina model fiberglass spa with luxury features",
+    "dimensions": {
+      "length": 8,
+      "width": 8,
+      "depth": 3.5
+    },
+    "gallons": 450,
+    "weight": 700,
+    "features": ["6-Person Seating", "Jets", "Luxury Design"]
+  },
+  {
+    "id": "cumba-spa",
+    "model": "Cumba Spa",
+    "type": "Fiberglass Spa",
+    "category": "spa-ledges",
+    "filename": "Cumba Spa by Rainforest Pools USA.jpg",
+    "alt": "Cumba model fiberglass spa with round design",
+    "dimensions": {
+      "length": 7.5,
+      "width": 7.5,
+      "depth": 3
+    },
+    "gallons": 400,
+    "weight": 650,
+    "features": ["Round Design", "Jets", "5-Person Seating"]
+  }
+]

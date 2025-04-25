@@ -1,0 +1,119 @@
+1:22:12 AM: build-image version: 9470eb4bcb76aed090584ca3beb7b71f813fe63b (noble)
+1:22:12 AM: buildbot version: 55ba56fdd1d6993bde37284ad04ed90fea91a4cc
+1:22:12 AM: Fetching cached dependencies
+1:22:12 AM: Starting to download cache of 607.3MB
+1:22:15 AM: Finished downloading cache in 2.615s
+1:22:15 AM: Starting to extract cache
+1:22:29 AM: Finished extracting cache in 13.666s
+1:22:29 AM: Finished fetching cache in 16.344s
+1:22:29 AM: Starting to prepare the repo for build
+1:22:29 AM: Preparing Git Reference refs/heads/main
+1:22:32 AM: Starting to install dependencies
+1:22:32 AM: Started restoring cached mise cache
+1:22:33 AM: Finished restoring cached mise cache
+1:22:33 AM: Python version set to 3.13.3
+1:22:34 AM: Ruby version set to 2.7.2
+1:22:34 AM: Go version set to 1.19
+1:22:34 AM: Using PHP version 8.3
+1:22:35 AM: Started restoring cached Node.js version
+1:22:36 AM: Finished restoring cached Node.js version
+1:22:37 AM: v22.15.0 is already installed.
+1:22:37 AM: Now using node v22.15.0 (npm v10.9.2)
+1:22:37 AM: Enabling Node.js Corepack
+1:22:37 AM: Started restoring cached build plugins
+1:22:37 AM: Finished restoring cached build plugins
+1:22:37 AM: Started restoring cached corepack dependencies
+1:22:37 AM: Finished restoring cached corepack dependencies
+1:22:37 AM: No npm workspaces detected
+1:22:37 AM: Started restoring cached node modules
+1:22:37 AM: Finished restoring cached node modules
+1:22:37 AM: Installing npm packages using npm version 10.9.2
+1:22:38 AM: up to date, audited 328 packages in 610ms
+1:22:38 AM: 135 packages are looking for funding
+1:22:38 AM:   run `npm fund` for details
+1:22:38 AM: found 0 vulnerabilities
+1:22:38 AM: npm packages installed
+1:22:38 AM: Successfully installed dependencies
+1:22:38 AM: Starting build script
+1:22:39 AM: Detected 1 framework(s)
+1:22:39 AM: "next" at version "15.3.1"
+1:22:39 AM: Section completed: initializing
+1:22:40 AM: ​
+1:22:40 AM: Netlify Build                                                 
+1:22:40 AM: ────────────────────────────────────────────────────────────────
+1:22:40 AM: ​
+1:22:40 AM: ❯ Version
+1:22:40 AM:   @netlify/build 32.1.0
+1:22:40 AM: ​
+1:22:40 AM: ❯ Flags
+1:22:40 AM:   accountId: 67043fadecb9f140b62c1d30
+1:22:40 AM:   baseRelDir: true
+1:22:40 AM:   buildId: 680b0de890121d00080cab33
+1:22:40 AM:   deployId: 680b0de890121d00080cab35
+1:22:40 AM: ​
+1:22:40 AM: ❯ Current directory
+1:22:40 AM:   /opt/build/repo
+1:22:40 AM: ​
+1:22:40 AM: ❯ Config file
+1:22:40 AM:   No config file was defined: using default values.
+1:22:40 AM: ​
+1:22:40 AM: ❯ Context
+1:22:40 AM:   production
+1:22:41 AM: ​
+1:22:41 AM: ❯ Using Next.js Runtime - v5.10.7
+1:22:42 AM: Next.js cache restored
+1:22:42 AM: ​
+1:22:42 AM: Build command from Netlify app                                
+1:22:42 AM: ────────────────────────────────────────────────────────────────
+1:22:42 AM: ​
+1:22:42 AM: $ npm run build
+1:22:42 AM: > rainforest-pools-usa@0.1.0 build
+1:22:42 AM: > next build
+1:22:43 AM:    ▲ Next.js 15.3.1
+1:22:43 AM:    Creating an optimized production build ...
+1:22:46 AM:  ✓ Compiled successfully in 0ms
+1:22:46 AM:    Skipping validation of types
+1:22:46 AM:    Linting ...
+1:22:46 AM:    Collecting page data ...
+1:22:48 AM:    Generating static pages (0/14) ...
+1:22:49 AM:    Generating static pages (3/14)
+1:22:49 AM:    Generating static pages (6/14)
+1:22:49 AM: Error occurred prerendering page "/". Read more: https://nextjs.org/docs/messages/prerender-error
+1:22:49 AM: RangeError: Maximum call stack size exceeded
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM:     at Object.VX (/opt/build/repo/.next/server/app/page.js:1:6879)
+1:22:49 AM: Export encountered an error on /page: /, exiting the build.
+1:22:49 AM:  ⨯ Next.js build worker exited with code: 1 and signal: null
+1:22:49 AM: ​
+1:22:49 AM: "build.command" failed                                        
+1:22:49 AM: ────────────────────────────────────────────────────────────────
+1:22:49 AM: ​
+1:22:49 AM:   Error message
+1:22:49 AM:   Command failed with exit code 1: npm run build (https://ntl.fyi/exit-code-1)
+1:22:49 AM: ​
+1:22:49 AM:   Error location
+1:22:49 AM:   In Build command from Netlify app:
+1:22:49 AM:   npm run build
+1:22:49 AM: ​
+1:22:49 AM:   Resolved config
+1:22:49 AM:   build:
+1:22:49 AM:     command: npm run build
+1:22:49 AM:     commandOrigin: ui
+1:22:49 AM:     publish: /opt/build/repo/.next
+1:22:49 AM:     publishOrigin: ui
+1:22:49 AM:   plugins:
+1:22:49 AM:     - inputs: {}
+1:22:49 AM:       origin: ui
+1:22:49 AM:       package: '@netlify/plugin-nextjs'
+1:22:49 AM: Build failed due to a user error: Build script returned non-zero exit code: 2
+1:22:49 AM: Failing build: Failed to build site
+1:22:49 AM: Finished processing build request in 37.26s
+1:22:49 AM: Failed during stage 'building site': Build script returned non-zero exit code: 2 (https://ntl.fyi/exit-code-2)
